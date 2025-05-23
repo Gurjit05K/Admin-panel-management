@@ -14,7 +14,7 @@ This is a React-based admin panel for BeyondChats, replicating Intercom's AI-enh
 
 ## Live Demo
 
-[Live URL](https://beyondchats-admin.vercel.app)
+[Live URL]([https://beyondchats-admin.vercel.app](https://admin-panel-management.vercel.app/))
 
 ## Tech Stack
 
@@ -50,7 +50,7 @@ This is a React-based admin panel for BeyondChats, replicating Intercom's AI-enh
 
 5. **Deploy to Vercel**:
 
-    - Push to GitHub:git add .
+    - Push to GitHub.
     - Import the repository in Vercel and deploy.
 
 
