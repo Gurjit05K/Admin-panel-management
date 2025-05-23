@@ -50,15 +50,15 @@ This is a React-based admin panel for BeyondChats, replicating Intercom's AI-enh
 
 5. **Deploy to Vercel**:
 
-    -Push to GitHub:git add .
-    -Import the repository in Vercel and deploy.
+    - Push to GitHub:git add .
+    - Import the repository in Vercel and deploy.
 
 
 6. **Future Improvements**:
 
-    -Integrate a real backend for dynamic conversations.
-    -Enhance AI Copilot with natural language processing for more query types.
-    -Add user authentication and settings customization.
+    - Integrate a real backend for dynamic conversations.
+    - Enhance AI Copilot with natural language processing for more query types.
+    - Add user authentication and settings customization.
 
 
 Built with 💻 by Gurjit Kaur for BeyondChats.```
