@@ -1,19 +1,16 @@
-# BeyondChats Admin Panel
+## BeyondChats Admin Panel
 
-A modern, responsive admin panel inspired by Intercom, built for the BeyondChats internship assignment. Features a sleek UI with a teal-themed design, an AI Copilot for contextual chat assistance, and seamless integration with conversation management. Designed with a focus on UI/UX, responsiveness, and delightful animations.
+This is a React-based admin panel for BeyondChats, replicating Intercom's AI-enhanced admin panel, including an AI Copilot feature.
 
 ## Features
-
-- **Conversations Management**: View and select conversations from a list, with details like user name, last message, and timestamp.
-- **Chat Window**: Real-time chat interface with message animations, teal-accented admin messages, and a composer for sending replies.
-- **AI Copilot**: Auto-opens with conversations, offering:
-  - Contextual replies to the latest message (e.g., "No problem" for Casual tone to "Thanks for update").
-  - Tone adjustments (Friendly, Formal, Concise, Professional, Casual).
-  - Summarization of recent messages.
-  - Email drafting and search suggestions.
-  - Seamless "Copy to Composer" with visual feedback (highlight and auto-focus).
-- **Responsive Design**: Fully responsive layout with a collapsible sidebar for mobile and a stacked Copilot panel.
-- **Polished UI/UX**: Teal (#00C4B4) theme, Inter font, rounded corners, shadows, and Framer Motion animations for a premium feel.
+- **Responsive UI**: Fully responsive for desktop and mobile, with a collapsible sidebar.
+- **Sidebar Navigation**: Home, Conversations, Settings, and AI Copilot.
+- **Conversation List**: Displays dummy conversations with user avatars and messages.
+- **Chat Window**: Supports sending and viewing messages with animations.
+- **AI Copilot**: Simulates an AI assistant for summarizing conversations, searching, or drafting emails.
+- **Settings Panel**: Basic toggles for notifications and dark mode.
+- **Animations**: Smooth sidebar toggle, message/Copilot response fade-in, and hover effects.
+- **Color Scheme**: Blue-white theme inspired by Intercom (customizable per demo video).
 
 ## Live Demo
 
